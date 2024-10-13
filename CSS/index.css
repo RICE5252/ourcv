@@ -1,0 +1,28 @@
+#StartHere{
+    color: rgba(119, 46, 46, 0.322); 
+    font-size: 72px; 
+    font-family: Inter; 
+    font-weight: 700; 
+    word-wrap: break-word
+}
+
+body{
+    background-color: rgba(67, 180, 110, 0.342);
+    text-align: center;
+}
+
+hr{
+    color: rgba(30, 189, 15, 0.329);
+    border-style: dotted;
+    border-width: 5px;
+    border-bottom: 0;
+    width: 5%;
+}
+
+h1,h2,h3{
+    color: rgb(68, 116, 36);
+}
+
+td{
+    text-align: center;
+}
